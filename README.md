@@ -1,1 +1,2 @@
 # Health-Insurance-Claim-
+Our project investigates the factors affecting health insurance claims, focusing on how lifestyle choices like smoking and exercising influence claim costs. We analyzed data, addressing missing values and outliers, to ensure accurate results. Our findings, presented through visualizations and regression analysis, highlight the impact of these factors on insurance expenses, offering insights for insurers and policyholders aiming to manage costs effectively. This study emphasizes the value of healthy behaviors in controlling insurance premiums.
